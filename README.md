@@ -66,7 +66,9 @@ Add your screenshots to `football_app/screenshots/`, then replace the filenames 
 ### Dashboard
 
 ![Dashboard](football_app/screenshots/dashboard.png)
-![Dashboard](football_app/screenshots/dashboard_statistics.png)
+
+### Dashboard Statistics
+![Dashboard Statistics](football_app/screenshots/dashboard_statistics.png)
 
 ### Team Management
 
